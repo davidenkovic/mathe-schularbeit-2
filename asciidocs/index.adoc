@@ -1,0 +1,51 @@
+= Zweite Mathe Schularbeit
+
+== Stoff
+
+* Differentialgleichung
+
+== Differentialgleichung (B.S.79)
+
+=== Klassifizierung von differentialgleichungen
+
+==== Theorie
+
+.Theorie Differentialgleichung
+====
+image::images/image-2022-01-14-19-04-31-866.png[]
+
+====
+
+*Lineare Differentialgleichungen* sind Gleichungen bei denen die gesuchte Funktion
+und ihre Ableitungen nur in der ersten Pontenz auftretten. In anderen Worten: *Keine Hochzahl*.
+
+.Beispiel für *Lineare Differentialgleichungen*
+====
+image::images/image-2022-01-14-19-08-19-509.png[]
+====
+
+Hängt eine Differentialgleichung nur von *einer unabhängigen Variablen* ab, bezeichnet man sie als _gewöhnliche Differentialgleichung_.
+Kommen in einer Differentialgleichung jedoch Funktionen *in mehreren Variablen* vor, so spricht man von partiellen Differentialgleichungen.
+
+.Beispiel gewöhnliche und partielle Differentialgleichung
+====
+image::images/image-2022-01-14-19-12-24-523.png[]
+====
+
+==== Lösen der Differentialgleichung
+
+.Lösen der Differentialgleichung (B.S. 83)
+====
+image::images/image-2022-01-14-19-29-34-809.png[]
+====
+
+.Theorie Frage (B.S. 84)
+====
+image::images/image-2022-01-14-19-34-02-327.png[]
+====
+
+.Theorie Frage (B.S. 84)
+====
+image::images/image-2022-01-14-19-35-29-787.png[]
+====
+
