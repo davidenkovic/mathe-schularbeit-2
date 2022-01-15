@@ -49,3 +49,22 @@ image::images/image-2022-01-14-19-34-02-327.png[]
 image::images/image-2022-01-14-19-35-29-787.png[]
 ====
 
+.Erkennen der Diferentialgleichung
+====
+image::images/image-2022-01-15-12-45-05-843.png[]
+====
+
+.Erkennen der Diferentialgleichung
+====
+image::images/image-2022-01-15-12-50-30-497.png[]
+====
+
+.Ermitteln der allgemeinen Lösung
+====
+image::images/image-2022-01-15-13-02-11-748.png[]
+====
+
+.Ermitteln der allgemeinen Lösung
+====
+image::images/image-2022-01-15-13-10-58-163.png[]
+====
