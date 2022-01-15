@@ -6,9 +6,8 @@
 
 == Differentialgleichung (B.S.79)
 
-=== Klassifizierung von differentialgleichungen
+=== Klassifizierung von Differentialgleichungen
 
-==== Theorie
 
 .Theorie Differentialgleichung
 ====
@@ -32,7 +31,7 @@ Kommen in einer Differentialgleichung jedoch Funktionen *in mehreren Variablen* 
 image::images/image-2022-01-14-19-12-24-523.png[]
 ====
 
-==== Lösen der Differentialgleichung
+=== Lösen der Differentialgleichung
 
 .Lösen der Differentialgleichung (B.S. 83)
 ====
