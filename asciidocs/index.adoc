@@ -3,6 +3,7 @@
 == Stoff
 
 * Differentialgleichung
+* Trennen der Variablen
 
 == Differentialgleichung (B.S.79)
 
@@ -99,6 +100,26 @@ image::images/image-2022-01-15-20-42-30-403.png[]
 image::images/image-2022-01-15-20-43-09-813.png[]
 
 image::images/image-2022-01-15-20-43-35-785.png[]
+====
 
+== Trennen der Variablen (B.S. 86)
 
+=== Erklärungsbeispiel
+
+Kann eine Differentialgleichung 1. Ordnung auf die Form ``y' = f(x) * g(x)`` gebracht werden,
+so kann deren Lösungsweg mit *Trennen der Variablen* werden.
+
+Dabei ist *y* eine Funktion in Abhängigkeit von *x*.
+
+.Lösen einer Differentialgleichung mit Trennen der Variablen
+====
+image::images/image-2022-01-15-21-24-09-524.png[]
+
+image::images/image-2022-01-15-21-24-22-404.png[]
+
+image::images/image-2022-01-15-21-24-36-480.png[]
+
+image::images/image-2022-01-15-21-25-01-341.png[]
+
+image::images/image-2022-01-15-21-25-17-418.png[]
 ====
