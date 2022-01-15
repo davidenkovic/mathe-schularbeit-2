@@ -48,22 +48,57 @@ image::images/image-2022-01-14-19-34-02-327.png[]
 image::images/image-2022-01-14-19-35-29-787.png[]
 ====
 
-.Erkennen der Diferentialgleichung
+.Erkennen der Diferentialgleichung (B.S. 84)
 ====
 image::images/image-2022-01-15-12-45-05-843.png[]
 ====
 
-.Erkennen der Diferentialgleichung
+.Erkennen der Diferentialgleichung (B.S. 84)
 ====
 image::images/image-2022-01-15-12-50-30-497.png[]
 ====
 
-.Ermitteln der allgemeinen Lösung
+.Ermitteln der allgemeinen Lösung (B.S. 85)
 ====
 image::images/image-2022-01-15-13-02-11-748.png[]
 ====
 
-.Ermitteln der allgemeinen Lösung
+.Ermitteln der allgemeinen Lösung (B.S. 85)
 ====
 image::images/image-2022-01-15-13-10-58-163.png[]
+====
+
+.Ermitteln der speziellen Lösung mit Physik (B.S. 85)
+====
+image::images/image-2022-01-15-17-27-37-460.png[]
+image::images/image-2022-01-15-17-42-12-812.png[]
+====
+
+.Ermitteln der speziellen Lösung (B.S. 85)
+====
+image::images/image-2022-01-15-20-38-55-230.png[]
+====
+
+IMPORTANT: Integration: Weg, Geschwindigkeit, Beschleunigung
+
+* s(t) gibt den zurückgelegten Weg zum Zeitpunkt t an (Einheit: m oder km ...)
+* v(t) gibt die Momentangeschwindigkeit zum Zeitpunkt t an (Einheit: m/s oder km/h ...). Die Geschwindigkeit ist die momentane Änderung des Weges s(t), d. h.
+====
+image::images/image-2022-01-15-20-41-27-335.png[]
+====
+
+* a(t) gibt die Beschleunigung zum Zeitpunkt t an (Einheit: m/s2 oder km/h2 ...). Die Beschleunigung ist die momentane Änderung der Geschwindigkeit v(t), d. h.
+
+====
+image::images/image-2022-01-15-20-42-30-403.png[]
+====
+
+*Vereinfacht gesagt gilt folgender Zusammenhang:*
+
+====
+image::images/image-2022-01-15-20-43-09-813.png[]
+
+image::images/image-2022-01-15-20-43-35-785.png[]
+
+
 ====
