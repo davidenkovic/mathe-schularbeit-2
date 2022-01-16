@@ -123,3 +123,16 @@ image::images/image-2022-01-15-21-25-01-341.png[]
 
 image::images/image-2022-01-15-21-25-17-418.png[]
 ====
+
+.Lösen einer Differentialgleichung mit Trennen der Variablen (B.S. 87)
+====
+image::images/image-2022-01-16-12-12-08-500.png[]
+====
+
+.Lösen einer Differentialgleichung mit Trennen der Variablen (B.S. 87)
+====
+image::images/image-2022-01-16-13-00-53-172.png[]
+
+image::images/image-2022-01-16-13-12-15-670.png[]
+
+====
