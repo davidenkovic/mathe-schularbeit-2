@@ -136,3 +136,50 @@ image::images/image-2022-01-16-13-00-53-172.png[]
 image::images/image-2022-01-16-13-12-15-670.png[]
 
 ====
+
+== Ausgleichsrechnung
+
+Daten liegen oft in Form von Wertepaaren vor. Mithilfe der Ausgleichsrechnung werden die
+Parameter einer Funktion von vorgegebenem Typ so bestimmt, dass der Funktionsgraph sich den
+erhobenen Datenpunkten am besten anpasst.
+
+Die Stärke des Zusammenhangs zwischen den beiden Größen wird mithilfe der Korrelation beschrieben.
+
+In anderen Worten: Die Korrelation zeigt an wie nahe die Punkte bei dem Graphen sind.
+
+.Punktwolken-Diagramm
+====
+image::images/image-2022-01-16-18-53-52-121.png[]
+====
+
+== Lineare Regression und Korrelation
+
+.Korrelation
+====
+image::images/image-2022-01-16-18-56-18-204.png[]
+
+image::images/image-2022-01-16-18-56-42-284.png[]
+====
+
+.Lineare Regression (B.S. 271)
+====
+image::images/image-2022-01-16-19-19-56-882.png[]
+====
+
+.Exponentiele Regression (B.S. 273)
+====
+image::images/image-2022-01-16-19-45-36-853.png[]
+====
+
+.Alle Regressionen (B.S. 273)
+====
+image::images/image-2022-01-16-20-04-52-526.png[]
+image::images/image-2022-01-16-20-05-16-649.png[]
+image::images/image-2022-01-16-20-05-34-449.png[]
+image::images/image-2022-01-16-20-05-51-719.png[]
+====
+
+.Quadratische (B.S. 273)
+====
+image::images/image-2022-01-16-20-24-01-097.png[]
+====
