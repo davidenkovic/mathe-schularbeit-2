@@ -69,13 +69,13 @@ image::images/image-2022-01-15-13-02-11-748.png[]
 image::images/image-2022-01-15-13-10-58-163.png[]
 ====
 
-.Ermitteln der speziellen Lösung mit Physik (B.S. 85)
+.Ermitteln der speziellen Lösung (B.S. 85)
 ====
 image::images/image-2022-01-15-17-27-37-460.png[]
 image::images/image-2022-01-15-17-42-12-812.png[]
 ====
 
-.Ermitteln der speziellen Lösung (B.S. 85)
+.Ermitteln der speziellen Lösung mit Physik (B.S. 85)
 ====
 image::images/image-2022-01-15-20-38-55-230.png[]
 ====
@@ -138,6 +138,12 @@ image::images/image-2022-01-16-13-12-15-670.png[]
 image::images/image-2022-01-16-20-48-16-110.png[]
 ====
 
+.Kodensator
+====
+image::images/image-2022-01-16-21-34-06-684.png[]
+image::images/image-2022-01-16-21-33-42-631.png[]
+====
+
 == Ausgleichsrechnung
 
 Daten liegen oft in Form von Wertepaaren vor. Mithilfe der Ausgleichsrechnung werden die
@@ -165,11 +171,18 @@ image::images/image-2022-01-16-18-56-42-284.png[]
 .Lineare Regression (B.S. 271)
 ====
 image::images/image-2022-01-16-19-19-56-882.png[]
+
+*Wichtig* bei der funktion unten wird das k mit x ersetzt. Hab mich vertippt.
 ====
 
 .Exponentiele Regression (B.S. 273)
 ====
-image::images/image-2022-01-16-19-45-36-853.png[]
+image::images/image-2022-01-16-22-00-00-423.png[]
+====
+
+.Logaritmische Regression (B.S. 275) credit ganesha
+====
+image::images/image-2022-01-16-21-29-46-853.png[]
 ====
 
 .Alle Regressionen (B.S. 273)
